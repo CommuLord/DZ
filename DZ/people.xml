@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person name="Goga">
+    <company>Grampus</company>
+    <age>37</age>
+    <clikuha>meme</clikuha>
+    <balance>2543</balance>
+  </person>
+  <person name="Golubina">
+    <company>Log</company>
+    <age>41</age>
+    <clikuha>petuh</clikuha>
+    <balance>0</balance>
+  </person>
+  <person name="Ilia">
+    <company>Baza.Net</company>
+    <age>69</age>
+    <clikuha>prusev</clikuha>
+    <balance>9939</balance>
+  </person>
+  <person name="Andru">
+    <company>Logasoft</company>
+    <age>14</age>
+    <clikuha>clikuha</clikuha>
+    <balance>2132</balance>
+  </person>
+</people>
